@@ -8,3 +8,5 @@ Hola Dilan, alumno de la UNAHUR
 Cosas que me interesan:
 * Gatos
 * Tecnología
+* Peliculas
+* Series
