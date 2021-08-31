@@ -3,7 +3,7 @@
 
 Hola Dilan, alumno de la UNAHUR
 
-![foto]("dilan.jpg")
+![foto](download.jpg)
 
 Cosas que me interesan:
 * Gatos
